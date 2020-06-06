@@ -1,4 +1,4 @@
-# jianshu
+# 一个简单的web项目模版
 
 ## Project setup
 ```
